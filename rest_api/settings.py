@@ -57,6 +57,7 @@ MIDDLEWARE = [
 
 CORS_ORIGIN_WHITELIST = [
     "http://localhost:3000",
+    'https://nextjs-blog-todos-tau-one.vercel.app'
 ]
 
 SIMPLE_JWT = {
